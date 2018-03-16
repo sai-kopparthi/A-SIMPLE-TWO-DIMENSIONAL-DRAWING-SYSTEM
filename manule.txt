@@ -1,0 +1,24 @@
+please give your input coordinates in "in.txt" file
+and run "make" command
+and then "./glutdemo"
+
+and before the operations starting it will ask you for the lne drawing by DDA or Breshnham
+enter 1 for translation
+2 for rotation
+3 for scaling
+4 for rasterization 
+and any number for clipping
+after one "operation" is done you can check you "in.txt" getting updated to your new values 
+
+
+CAUTION
+
+
+please note that when is ask you which polygon you want to do modification please specify as given below
+0->for the first polygon
+1->2nd polygon
+2->3 rd polygon 
+and so on..
+
+
+cliping the console ask you for cliping xooridinated pls make sure that order of (xmin,xmax,ymin,ymax) respectivly 
